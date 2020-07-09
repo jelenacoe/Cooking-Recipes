@@ -1,0 +1,17 @@
+var recipies=[
+    {
+        "id":"1",
+        "name":"Tomato soup",
+        "photo":"..img/tomato.jpg"
+    },
+    {
+        "id":"2",
+        "name":"Steak Frites",
+        "photo":"..img/sk.jpg"
+    },
+    {
+        "id":"3",
+        "name":"Cheesecake",
+        "photo":"..img/cheese.jpg"
+    }
+]
